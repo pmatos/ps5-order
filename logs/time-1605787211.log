@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+        <title>503 - Service Unavailable Error</title>
+
+        <style type="text/css">
+            a:link { font-family: verdana,arial,helvetica,sans-serif; color: #004B91; }
+            a:visited { font-family: verdana,arial,helvetica,sans-serif; color: #996633; }
+            a:active { font-family: verdana,arial,helvetica,sans-serif; color: #FF9933; }
+        </style>
+    </head>
+    <body bgcolor="#FFFFFF" text="#000000" style="font-family: verdana,arial,helvetica,sans-serif;">
+        <!--
+            To discuss automated access to Amazon data please contact api-services-support@amazon.com.
+        -->
+        <center>
+            <a href="/ref=cs_503_logo">
+                <img src="https://images-eu.ssl-images-amazon.com/images/G/03/ShoppingPortal/logo._TTD_.png"
+                     alt="Amazon" border="0"/>
+            </a>
+            <table border="0" align="center" style="margin-top: 20px;">
+                <tr>
+                    <td>
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/03/x-locale/common/kailey-kitty._TTD_.gif" width="40" height="35" border="0">
+                    </td>
+                    <td>
+                        <b style="color:#E47911">We are sorry</b>
+                        <br/>
+                        An error occurred when we tried to process your request.
+                        <br/><br/>
+                        We're working on the problem and expect to resolve it shortly. Please note that if you were trying to place an order, it will not have been processed at this time. Please try again later.
+                        <br/><br/>
+                        <img src="https://images-eu.ssl-images-amazon.com/images/G/03/x-locale/common/orange-arrow._TTD_.gif" width="10" height="9" border="0">
+                        <b><a href="/ref=cs_503_link">Click here to return to the Amazon home page</a></b>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+<!-- sp:error_pages -->
